@@ -39,6 +39,8 @@ The app checks for updates daily and from **Check for updates** on the front pag
 
 ## Changelog
 
+**3.1.1** — in-app updates fixed (Restart now installs and relaunches) · your whole setup is backed up to your license and restored on a new PC · Back up now / Restore buttons in Settings.
+
 **3.1.0** — one-click Slack connect with automatic restore on a new PC · smooth scrolling everywhere · Channels page shows your saved channels even when IXBrowser is closed · Demo Mode now covers every page · faster Diagnostics · cleaner License page and About.
 
 **3.0.0** — first public build: licensing, signed updates, anonymous usage statistics, bundled Node.js.
