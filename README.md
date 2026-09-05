@@ -39,6 +39,8 @@ The app checks for updates daily and from **Check for updates** on the front pag
 
 ## Changelog
 
+**3.1.3** — fresh-install fixes: 'Sync with IXBrowser now' on the Scheduler page · Connect Slack no longer fails when the browser is slow to open ('Copy link' fallback).
+
 **3.1.2** — your Slack channels are named after you (License page → 'Your name or agency name', e.g. Killer YT → #killer-yt-warmup) · rename them any time from Settings · reconnecting on a new PC keeps your existing channels.
 
 **3.1.1** — in-app updates fixed (Restart now installs and relaunches) · your whole setup is backed up to your license and restored on a new PC · Back up now / Restore buttons in Settings.
