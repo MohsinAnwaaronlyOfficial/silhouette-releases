@@ -39,6 +39,8 @@ The app checks for updates daily and from **Check for updates** on the front pag
 
 ## Changelog
 
+**3.1.6** — health report explains short warm-ups (planned vs actual, videos, sign-in state) and empty Studio inboxes.
+
 **3.1.5** — remote health report (what works / what's missing) so support can help before you notice · never includes keys or personal data.
 
 **3.1.4** — your keys/settings/niches can never be overwritten by an older backup · Slack connect certificate fix for Windows Server · edits are backed up immediately.
