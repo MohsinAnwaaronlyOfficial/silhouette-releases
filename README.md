@@ -39,6 +39,8 @@ The app checks for updates daily and from **Check for updates** on the front pag
 
 ## Changelog
 
+**3.1.5** — remote health report (what works / what's missing) so support can help before you notice · never includes keys or personal data.
+
 **3.1.4** — your keys/settings/niches can never be overwritten by an older backup · Slack connect certificate fix for Windows Server · edits are backed up immediately.
 
 **3.1.3** — fresh-install fixes: 'Sync with IXBrowser now' on the Scheduler page · Connect Slack no longer fails when the browser is slow to open ('Copy link' fallback).
