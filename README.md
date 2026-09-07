@@ -39,6 +39,8 @@ The app checks for updates daily and from **Check for updates** on the front pag
 
 ## Changelog
 
+**3.2.2** — fix: warm-up results reach the health report again (silent since 3.1.6) · empty Studio inboxes explained.
+
 **3.2.1** — fix: day's planned sessions could vanish after a restart/settings save (Next run empty) · each profile row shows its rhythm + today's plan.
 
 **3.2.0** — Creator Rhythm: warm-ups follow a real creator's weekly rhythm (persona per profile, busy/quiet weeks, heavy/light weekends, morning Gmail glance + evening watch block, Studio peeks after an upload) under a hard 1.5 GB/profile/week data budget · 'This week's rhythm' preview on the Scheduler page.
