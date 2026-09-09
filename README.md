@@ -39,6 +39,8 @@ The app checks for updates daily and from **Check for updates** on the front pag
 
 ## Changelog
 
+**3.2.3** — reliability: false 'IXBrowser unreachable' alerts gone (debounced + recovery line) · warm-up results reach the health report · replies work again on channels whose Google account has more than one channel · empty inbox only when Studio says 'No comments found'.
+
 **3.2.2** — fix: warm-up results reach the health report again (silent since 3.1.6) · empty Studio inboxes explained.
 
 **3.2.1** — fix: day's planned sessions could vanish after a restart/settings save (Next run empty) · each profile row shows its rhythm + today's plan.
