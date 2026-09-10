@@ -39,6 +39,8 @@ The app checks for updates daily and from **Check for updates** on the front pag
 
 ## Changelog
 
+**3.2.5** — replies post reliably again: reply box opened in a foreground tab (with a wait + one retry) · a posted reply is no longer reported as failed · health line says why a reply failed.
+
 **3.2.4** — warm-up check-ins run their planned minutes (only ≤5-min ones are the quick 'glance' kind) · Studio inbox read from a foreground tab (fixes all-day '0 comments' on profiles that reopened with restored tabs) · fleet-wide weekly budget in the health report · no stale 'update available' banner.
 
 **3.2.3** — reliability: false 'IXBrowser unreachable' alerts gone (debounced + recovery line) · warm-up results reach the health report · replies work again on channels whose Google account has more than one channel · empty inbox only when Studio says 'No comments found'.
