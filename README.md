@@ -39,6 +39,8 @@ The app checks for updates daily and from **Check for updates** on the front pag
 
 ## Changelog
 
+**3.3.0** — replies to ~70 % of each channel's comments daily (whole inbox read, batches of ≤12, evening catch-up) · 1–2 warm-up blocks + short Gmail/Studio checks a day · ~15 GB/month per profile at better quality · engagement events in their own Slack channel on every install.
+
 **3.2.5** — replies post reliably again: reply box opened in a foreground tab (with a wait + one retry) · a posted reply is no longer reported as failed · health line says why a reply failed.
 
 **3.2.4** — warm-up check-ins run their planned minutes (only ≤5-min ones are the quick 'glance' kind) · Studio inbox read from a foreground tab (fixes all-day '0 comments' on profiles that reopened with restored tabs) · fleet-wide weekly budget in the health report · no stale 'update available' banner.
