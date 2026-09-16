@@ -39,6 +39,8 @@ The app checks for updates daily and from **Check for updates** on the front pag
 
 ## Changelog
 
+**3.5.0** — niche audience clock (courtroom/bodycam evenings + weekends, finance weekday lunch, dark psychology late) · spam-risk slow-down (half pace for 48 h when Studio pushes back) · likes and shorts in every warm-up line · identical Slack lines once an hour · Monday weekly tuning report.
+
 **3.4.0** — comments read and answered in one sitting · never replies to itself or to an already-answered thread, never twice to one comment · real emoji in replies · heart-instead-of-reply for short praise, spam skipped, freshest first, no night-time replies, ≤20/hour · morning day-plan, per-sitting and nightly summary lines in Slack · a crowded day keeps its warm-up block.
 
 **3.3.0** — replies to ~70 % of each channel's comments daily (whole inbox read, batches of ≤12, evening catch-up) · 1–2 warm-up blocks + short Gmail/Studio checks a day · ~15 GB/month per profile at better quality · engagement events in their own Slack channel on every install.
