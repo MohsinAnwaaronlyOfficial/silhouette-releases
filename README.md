@@ -39,6 +39,8 @@ The app checks for updates daily and from **Check for updates** on the front pag
 
 ## Changelog
 
+**3.5.1** — replies shown as their own Studio card count as posted (no more false 'not visible' failures or slow-downs) · comment lookup restarts from the top + one inbox reload · LLM: 429 retry, paced drafts, every provider gets a turn · warm-up blocks fill the planned minutes · 'likes off' diagnostic.
+
 **3.5.0** — niche audience clock (courtroom/bodycam evenings + weekends, finance weekday lunch, dark psychology late) · spam-risk slow-down (half pace for 48 h when Studio pushes back) · likes and shorts in every warm-up line · identical Slack lines once an hour · Monday weekly tuning report.
 
 **3.4.0** — comments read and answered in one sitting · never replies to itself or to an already-answered thread, never twice to one comment · real emoji in replies · heart-instead-of-reply for short praise, spam skipped, freshest first, no night-time replies, ≤20/hour · morning day-plan, per-sitting and nightly summary lines in Slack · a crowded day keeps its warm-up block.
