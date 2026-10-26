@@ -39,6 +39,8 @@ The app checks for updates daily and from **Check for updates** on the front pag
 
 ## Changelog
 
+**3.6.0** — one warm-up (30–180 min) + one long comment sitting a day · sittings answer recent + older comments in rounds (20–30 replies, 30–90 s apart, ≤ 20/hour) · follow-ups to viewers who answered us · warm-ups run their real planned length (blocks up to 60) · "unconfirmed" replies settled on the next read, never re-posted · likes only on watch/Shorts pages · 480p, 5.5 GB/week per profile.
+
 **3.5.1** — replies shown as their own Studio card count as posted (no more false 'not visible' failures or slow-downs) · comment lookup restarts from the top + one inbox reload · LLM: 429 retry, paced drafts, every provider gets a turn · warm-up blocks fill the planned minutes · 'likes off' diagnostic.
 
 **3.5.0** — niche audience clock (courtroom/bodycam evenings + weekends, finance weekday lunch, dark psychology late) · spam-risk slow-down (half pace for 48 h when Studio pushes back) · likes and shorts in every warm-up line · identical Slack lines once an hour · Monday weekly tuning report.
